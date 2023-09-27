@@ -2,11 +2,8 @@
   <img src="https://thumbs.gfycat.com/BlindCaringCentipede-size_restricted.gif" width="100%" height=300>
 </p>
 <h1 align="center">Hi there
- 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
  , I'm Scott Sharrard</h1>
 <p align="center"><img src="https://cdn.lospec.com/gallery/a-dark-omen-924611.png" width="100"/></p>
-
 
 <h1 align="left">About me</h1>
 
