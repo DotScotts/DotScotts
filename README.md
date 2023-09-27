@@ -9,6 +9,7 @@
 <h4 style="font-family: Times New Roman; text-align: justify;">
         Software engineering student (2nd Year) at Sheridan College, pursuing a degree in Software Development & Network Engineering
 </h4>
+**`Open Source Sorcerer (Developer/Network Engineer)`**
 
 - 🔭 I’m currently working on : **`My Resume & Portfolio`**
 
