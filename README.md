@@ -124,7 +124,8 @@
 
 <hr>
 
-
-<img allign="center" style="height:100%;width:64%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DotScotts&theme=dracula&column=7&count_private=true&show_icons=true&include_all_commits=true"/>
-
+<p align="center">
+  <img src="https://thumbs.gfycat.com/BlindCaringCentipede-size_restricted.gif" width="100%" height=300>
+<img style="height:100%;width:64%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DotScotts&theme=dracula&column=7&count_private=true&show_icons=true&include_all_commits=true"/>
+</p>
 <hr>
