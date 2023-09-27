@@ -2,8 +2,8 @@
 
 **'Open Source Sorcerer (Developer/Network Engineer)'**
 
-🌱 I’m currently learning Lua & Kotlin.
-📫 How to reach me: sharrard@sheridancollege.ca | 905-334-3901 | Carrier Pigeon
+🌱 I’m currently learning Lua & Kotlin.  
+📫 How to reach me: sharrard@sheridancollege.ca | 905-334-3901 | Carrier Pigeon  
 😄 Pronouns: He/Him
 
 <!--
