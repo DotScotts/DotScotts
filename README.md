@@ -115,7 +115,7 @@
 
 <p>
 <div align="center">
-<img src="https://imgur.com/5fJcA0R.png" width="270"/>
+<img src="https://imgur.com/1KisdZN.png" width="270"/>
 <img style="height:100%;width:64%;max-width: 100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DotScotts&theme=react&column=7&count_private=true&show_icons=true&include_all_commits=true"/>
 </div>
 </p>
