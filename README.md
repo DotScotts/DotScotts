@@ -16,8 +16,6 @@
 
 - 📫 How to reach me : **`sharrard@sheridancollege.ca | 905-334-3901 | Messenger Pigeon`**
 
-- 📜 You can check here my resume : [Scott Sharrard CV](https://docs.google.com/document/d/185Z0y5nZTdz0SAQ075QpEcSuDlX9ggql/edit?usp=sharing&ouid=101056112043606628395&rtpof=true&sd=true)
-
 <hr>
 
 <h1 align="left">Connect with me</h1>
