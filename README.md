@@ -4,13 +4,11 @@
 <h1 align="center">DotScotts // Scott</h1>
 <p align="center"><img src="https://cdn.lospec.com/gallery/a-dark-omen-924611.png" width="100"/></p>
 
-<h1 align="left">About me</h1>
+<h1 align="left">Open Source Sorcerer (Developer/Network Engineer)</h1>
 
 <h4 style="font-family: Times New Roman; text-align: justify;">
         Software engineering student (2nd Year) at Sheridan College, pursuing a degree in Software Development & Network Engineering
 </h4>
-
-**`Open Source Sorcerer (Developer/Network Engineer)`**
 
 - 🔭 I’m currently working on : **`My Resume & Portfolio`**
 
