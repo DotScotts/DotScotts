@@ -7,9 +7,7 @@
 <h1 align="left">About me</h1>
 
 <h4 style="font-family: Times New Roman; text-align: justify;">
-    <a href="https://www.sheridancollege.ca/en/programs/computer-systems-technology-software-development-and-network-engineering">
         Software engineering student (2nd Year) at Sheridan College, pursuing a degree in Software Development & Network Engineering
-    </a>
 </h4>
 
 - 🔭 I’m currently working on : **`My Resume & Portfolio`**
