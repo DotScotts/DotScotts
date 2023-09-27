@@ -10,7 +10,7 @@
 
 <h1 align="left">About me</h1>
 
-<h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering student (2nd Year) at Sheridan College, pursuing a degree in Software Development & Network Engineering (SDNE), I am passionate about (Web development using ReactJs/NextJs) and (Mobile app development using Flutter), I also have the skills to build a software system for clients. Learning new things always excites me, and I am constantly seeking new challenges to expand my knowledge and skills.</h4>
+<h4 align="justify" style="font-family: times new roman" align="left">I am a software engineering student (2nd Year) at Sheridan College, pursuing a degree in Software Development & Network Engineering (SDNE)</h4>
 
 - 🔭 I’m currently working on : **`My Resume & Portfolio`**
 
