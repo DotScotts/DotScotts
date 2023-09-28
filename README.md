@@ -9,7 +9,7 @@
 <h4 style="font-family: Times New Roman; text-align: justify;">
         Software engineering student (2nd Year) at Sheridan College, pursuing a degree in Software Development & Network Engineering
 </h4>
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DotScotts)
 - 🔭 I’m currently working on : **`My Resume & Portfolio`**
 
 - 🌱 I’m currently learning : **`Lua & Kotlin`**
