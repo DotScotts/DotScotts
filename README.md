@@ -21,6 +21,10 @@
 <h1 align="left">Connect with me</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/scott-sharrard-3a9668293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/" height="30" width="40" /></a>
+<a href="https://www.discord.com" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/discord.svg" alt="https://www.linkedin.com/" height="30" width="40" /></a>
+<a href="https://www.discord.com" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/whatsapp.svg" alt="https://www.linkedin.com/" height="30" width="40" /></a>
+<a href="https://www.discord.com" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/youtube.svg" alt="https://www.linkedin.com/" height="30" width="40" /></a>
+<a href="https://www.discord.com" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/reddit.svg" alt="https://www.linkedin.com/" height="30" width="40" /></a>
 </p>
 
 
