@@ -15,7 +15,7 @@
 - 🌱 I’m currently learning : **`Lua & Kotlin`**
 
 - 📫 How to reach me : **`sharrard@sheridancollege.ca | 905-334-3901 | Messenger Pigeon`**
-
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 <hr>
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 <h1 align="left">Connect with me</h1>
